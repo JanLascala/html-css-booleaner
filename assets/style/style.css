@@ -41,10 +41,23 @@ h4 {
     font-size: 10px;
 }
 
-#maintext {
+.maintext {
     padding-top: 20px;
 }
 
 ul {
     padding-top: 20px;
+}
+
+table {
+    padding-top: 20px;
+}
+
+th {
+    padding-right: 300px;
+    background-color: rgba(95, 95, 191, 0.491);
+}
+
+.azurerow {
+    background-color: rgba(114, 173, 222, 0.746);
 }
