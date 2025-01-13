@@ -63,6 +63,7 @@ th {
 }
 
 #imgpc {
+    height: 208;
+    width: 312px;
     background-image: url(../img/monitor.jpg);
-    background-size: 100%;
 }
