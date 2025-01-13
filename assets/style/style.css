@@ -40,3 +40,11 @@ h4 {
 #photonotes {
     font-size: 10px;
 }
+
+#maintext {
+    padding-top: 20px;
+}
+
+ul {
+    list-style: disc;
+}
