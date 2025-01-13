@@ -17,14 +17,14 @@ header {
 }
 
 body {
-    text-align: center;
-
+    padding: 20px;
 }
 
 h1 {
     font-size: 30px;
 
 }
+
 
 
 h4 {
@@ -46,5 +46,5 @@ h4 {
 }
 
 ul {
-    list-style: disc;
+    padding-top: 20px;
 }
