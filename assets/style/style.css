@@ -5,15 +5,38 @@
 }
 
 header {
-
     background-image: url(../img/pattern.png);
     background-color: rgb(77, 77, 125);
     background-size: 20%;
     padding-top: 20px;
+
 }
 
 #logo {
     height: 50px;
+}
+
+body {
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 30px;
+
+}
 
 
+h4 {
+
+
+    color: rgb(166, 161, 161);
+}
+
+#autor {
+    color: rgb(80, 80, 211);
+}
+
+#photonotes {
+    font-size: 10px;
 }
