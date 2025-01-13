@@ -61,3 +61,8 @@ th {
 .azurerow {
     background-color: rgba(114, 173, 222, 0.746);
 }
+
+#imgpc {
+    background-image: url(../img/monitor.jpg);
+    background-size: 100%;
+}
